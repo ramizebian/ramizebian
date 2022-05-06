@@ -1,4 +1,4 @@
-## world.hello(); 👋
+## world.hello(); <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 I am a tech enthusiast with over 10 years of development and technical leadership experience with a solid background in:
 
 * Web and mobile development 👨‍💻
