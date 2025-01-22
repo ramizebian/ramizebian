@@ -1,16 +1,11 @@
 ## world.hello(); <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-I am a tech enthusiast with over 14 years of development and technical leadership experience with a solid background in:
+I am a tech enthusiast with over 15 years of development and technical leadership experience with a solid background in:
 
 * Software Development 👨‍💻
 * Product Management 🙎‍♂️
-* Technical Project Management 🙎‍♂️
 * Web Performance ⚡
 * Cybersecurity 🛡️
 * Augmented Reality 👨‍💻
-* Business Intelligence 📈
- 
-Self-driven, actively looking for ways to contribute, and have a sense of intellectual curiosity and a burning desire to learn.
-<br>
 
 ## Let's connect!
 
