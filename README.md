@@ -45,7 +45,7 @@ I’m open to **consulting opportunities**, **strategic partnerships**, and **cr
 <a href="https://www.python.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>   
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  <a href="https://redis.io/" target="_blank"><img style="margin: 20px" src="https://upload.wikimedia.org/wikipedia/en/6/6b/Redis_Logo.svg" alt="Redis" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
 <a href="https://dotnet.microsoft.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".NET" height="50" /></a>
 <a href="https://www.php.net/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 <a href="https://www.ruby-lang.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" /></a>
