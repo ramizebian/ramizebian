@@ -38,7 +38,7 @@ I’m open to **consulting opportunities**, **strategic partnerships**, and **cr
     <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/blazor-icon.png" alt="Blazor" width="50" height="50">
   </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/unity-original.svg" alt="Unity" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/unity.png" alt="Unity" width="50" height="50">
   </a>
 </div>
 
@@ -102,7 +102,7 @@ I’m open to **consulting opportunities**, **strategic partnerships**, and **cr
     <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/meta.png" alt="Metasploit" width="50" height="50">
   </a>
   <a href="https://owasp.org/www-project-top-ten/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/owasp.jpg.web" alt="OWASP" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/owasp.png" alt="OWASP" width="50" height="50">
   </a>
 </div>
 
