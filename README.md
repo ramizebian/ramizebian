@@ -35,7 +35,7 @@ I’m open to **consulting opportunities**, **strategic partnerships**, and **cr
     <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/angularjs-original.svg" alt="Angular" width="50" height="50">
   </a>
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/blazor.png" alt="Blazor" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/Blazor.png" alt="Blazor" width="50" height="50">
   </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/unity-original.svg" alt="Unity" width="50" height="50">
