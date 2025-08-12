@@ -20,25 +20,25 @@ I’m open to **consulting opportunities**, **strategic partnerships**, and **cr
 ### Frontend Development
 <div style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/react-original.svg" alt="React" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/main/assets/icons/react-original.svg" alt="React" width="50" height="50">
   </a>
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/javascript-original.svg" alt="JavaScript" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/main/assets/icons/javascript-original.svg" alt="JavaScript" width="50" height="50">
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/typescript-original.svg" alt="TypeScript" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/main/assets/icons/typescript-original.svg" alt="TypeScript" width="50" height="50">
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/nextjs-original.svg" alt="Next.js" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/main/assets/icons/nextjs-original.svg" alt="Next.js" width="50" height="50">
   </a>
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/angularjs-original.svg" alt="Angular" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/main/assets/icons/angularjs-original.svg" alt="Angular" width="50" height="50">
   </a>
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/blazor-icon.png" alt="Blazor" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/main/assets/icons/blazor-icon.png" alt="Blazor" width="50" height="50">
   </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/unity.png" alt="Unity" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/main/assets/icons/unity.png" alt="Unity" width="50" height="50">
   </a>
 </div>
 
@@ -47,46 +47,46 @@ I’m open to **consulting opportunities**, **strategic partnerships**, and **cr
 ### Backend Technologies & Cloud Computing ☁️
 <div style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/nodejs-original.svg" alt="Node.js" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/main/assets/icons/nodejs-original.svg" alt="Node.js" width="50" height="50">
   </a>
   <a href="https://graphql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/graphql-plain.svg" alt="GraphQL" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/main/assets/icons/graphql-plain.svg" alt="GraphQL" width="50" height="50">
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/aws.png" alt="AWS" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/main/assets/icons/aws.png" alt="AWS" width="50" height="50">
   </a>
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/azure-original.svg" alt="Azure" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/main/assets/icons/azure-original.svg" alt="Azure" width="50" height="50">
   </a>
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/googlecloud-original.svg" alt="Google Cloud" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/main/assets/icons/googlecloud-original.svg" alt="Google Cloud" width="50" height="50">
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/mongodb-original.svg" alt="MongoDB" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/main/assets/icons/mongodb-original.svg" alt="MongoDB" width="50" height="50">
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/python-original.svg" alt="Python" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/main/assets/icons/python-original.svg" alt="Python" width="50" height="50">
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/docker-original.svg" alt="Docker" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/main/assets/icons/docker-original.svg" alt="Docker" width="50" height="50">
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/mysql-original.svg" alt="MySQL" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/main/assets/icons/mysql-original.svg" alt="MySQL" width="50" height="50">
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/postgresql-original.svg" alt="PostgreSQL" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/main/assets/icons/postgresql-original.svg" alt="PostgreSQL" width="50" height="50">
   </a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/dotnetcore-original.svg" alt=".NET" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/main/assets/icons/dotnetcore-original.svg" alt=".NET" width="50" height="50">
   </a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/php-original.svg" alt="PHP" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/main/assets/icons/php-original.svg" alt="PHP" width="50" height="50">
   </a>
   <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/ruby-original.svg" alt="Ruby" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/main/assets/icons/ruby-original.svg" alt="Ruby" width="50" height="50">
   </a>
   <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/rails-plain.svg" alt="Ruby on Rails" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/main/assets/icons/rails-plain.svg" alt="Ruby on Rails" width="50" height="50">
   </a>
 </div>
 
@@ -96,13 +96,13 @@ I’m open to **consulting opportunities**, **strategic partnerships**, and **cr
 ### 🔒 Cybersecurity & Ethical Hacking 🛡️
 <div style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/kali-dragon-icon.svg" alt="Kali Linux" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/main/assets/icons/kali-dragon-icon.svg" alt="Kali Linux" width="50" height="50">
   </a>
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/meta.png" alt="Metasploit" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/main/assets/icons/meta.png" alt="Metasploit" width="50" height="50">
   </a>
   <a href="https://owasp.org/www-project-top-ten/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/owasp.png" alt="OWASP" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/main/assets/icons/owasp.png" alt="OWASP" width="50" height="50">
   </a>
 </div>
 
