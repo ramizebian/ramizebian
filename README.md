@@ -53,7 +53,7 @@ I’m open to **consulting opportunities**, **strategic partnerships**, and **cr
     <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/graphql-plain.svg" alt="GraphQL" width="50" height="50">
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/aws.webp" alt="AWS" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/aws.png" alt="AWS" width="50" height="50">
   </a>
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/azure-original.svg" alt="Azure" width="50" height="50">
