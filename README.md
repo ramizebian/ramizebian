@@ -35,7 +35,7 @@ I’m open to **consulting opportunities**, **strategic partnerships**, and **cr
     <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/angularjs-original.svg" alt="Angular" width="50" height="50">
   </a>
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/Blazor.png" alt="Blazor" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/blazor-icon.png" alt="Blazor" width="50" height="50">
   </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/unity-original.svg" alt="Unity" width="50" height="50">
@@ -53,7 +53,7 @@ I’m open to **consulting opportunities**, **strategic partnerships**, and **cr
     <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/graphql-plain.svg" alt="GraphQL" width="50" height="50">
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/amazonwebservices-original.svg" alt="AWS" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/aws.webp" alt="AWS" width="50" height="50">
   </a>
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/azure-original.svg" alt="Azure" width="50" height="50">
@@ -99,10 +99,10 @@ I’m open to **consulting opportunities**, **strategic partnerships**, and **cr
     <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/kali-dragon-icon.svg" alt="Kali Linux" width="50" height="50">
   </a>
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/Metasploit_logo_and_wordmark.png" alt="Metasploit" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/meta.png" alt="Metasploit" width="50" height="50">
   </a>
   <a href="https://owasp.org/www-project-top-ten/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/logo.png" alt="OWASP" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/ramizebian/ramizebian/staging/assets/icons/owasp.jpg.web" alt="OWASP" width="50" height="50">
   </a>
 </div>
 
