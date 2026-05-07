@@ -119,6 +119,7 @@ I’m open to **consulting opportunities**, **strategic partnerships**, and **cr
 Feel free to reach out to me through the following platforms:
 
 <p align="left">
+  <a href="https://ramizebian.com"><img alt="Website" src="https://img.shields.io/badge/website-ramizebian.com-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ramizebian/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/6859050/rami-zebian"><img alt="Stack Overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" /></a>
   <a href="https://x.com/ramizebian"><img alt="X" src="https://img.shields.io/badge/x-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>
