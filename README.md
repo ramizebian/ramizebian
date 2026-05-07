@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0EA5E9,50:22C55E,100:F97316&text=Rami%20Zebian&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=46&desc=Tech%20Strategist%20%7C%20Digital%20Transformation%20%7C%20Software%20Engineering&descAlign=50&descAlignY=60&descSize=16" alt="Rami Zebian profile banner" width="100%" />
+</div>
+
 ## world.hello();
 
 👋 Hi there!
